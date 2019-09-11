@@ -1,0 +1,1 @@
+exports.messages = ["You are Great!","You can accomplish anything!","Success is in your future"];
