@@ -1,0 +1,15 @@
+{
+  "name": "advancerouteserver",
+  "version": "1.0.0",
+  "description": "With some advance routing technique",
+  "main": "main.js",
+  "dependencies": {
+    "http-status-codes": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Jain",
+  "license": "ISC"
+}
